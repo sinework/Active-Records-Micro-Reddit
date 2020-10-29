@@ -16,10 +16,13 @@ This is a basic rails project focusing on active records. In this project, we ha
 - Git clone git@github.com:sinework/Active-Records-Micro-Reddit.git
 - Go to the local repo and run bundle install
 - Updaate your yarn if its out of date with yarn install --check-files
-
-### How to start the console
+### Get the database
 - Go to your terminal/command line interface
 - Go to your local copy of the repository
+- run rails db:create
+- run rails db:migrate
+
+### How to start the console
 - Run rails console
 
 ## Prerequisites 
