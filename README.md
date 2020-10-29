@@ -1,24 +1,46 @@
-# README
+# Micro-reddit-active-records
+## Preface
+This is a basic rails project focusing on active records. In this project, we have created models, validations for the models and associations between the models.
+## Built with
+- Ruby v2.7.1
+- Rails 6
+- SQLITE3
+## Features
+- Creating a user
+- Creating a post
+- Creating a comment
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Getting Started
+### Get a local copy
 
-Things you may want to cover:
+- Git clone git@github.com:sinework/Active-Records-Micro-Reddit.git
+- Go to the local repo and run bundle install
+- Updaate your yarn if its out of date with yarn install --check-files
 
-* Ruby version
+### How to start the console
+- Go to your terminal/command line interface
+- Go to your local copy of the repository
+- Run rails console
 
-* System dependencies
+## Prerequisites 
+-Rails v6
+-Ruby v2.7.1
 
-* Configuration
+## Dependencies
+- rubocop 
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Sinework Amare Shiferaw**
 
-* How to run the test suite
+- Github: [@sinework](https://github.com/sinework)
 
-* Services (job queues, cache servers, search engines, etc.)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sinework-amare-731a6a125/)
 
-* Deployment instructions
+👤 **Marco Erhardt**
 
-* ...
+Github: [LinkedIn](@marcode95)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
